@@ -9884,7 +9884,7 @@ select.default:focus, select.default:active {
     content: "";
     width: 0;
     left: 0;
-    bottom: 0;
+    bottom: -4px;
     height: 3px;
     background: #007bff;
     transition: all ease 0.5s;
@@ -10201,7 +10201,7 @@ body.show-menu .mob-btn span + span + span {
 .main-header .container-fluid .logo img {
   -o-object-fit: cover;
      object-fit: cover;
-  width: 5.8823529412rem;
+  width: 7.0588235294rem;
 }
 .main-header .container-fluid .header-right .main-nav {
   display: -webkit-box;
