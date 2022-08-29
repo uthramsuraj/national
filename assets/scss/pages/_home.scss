@@ -390,8 +390,13 @@
                     height: rem(150);
                     margin-bottom: rem(20);
                     object-fit: contain;
+                    transition: all 0.4s;
                 }
-
+                &:hover{
+                    img{
+                        transform: scale(1.1);
+                    }
+                }
                 .forkit-bottom-wrap {
                     display: flex;
                     align-items: center;
@@ -496,6 +501,12 @@
                 margin-bottom: rem(35);
                 object-fit: contain;
                 min-height: 160px;
+                transition: all 0.4s;
+            }
+            &:hover{
+                img{
+                    transform: scale(1.1);
+                }
             }
 
             h3 {
