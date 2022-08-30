@@ -331,7 +331,14 @@
                 margin-left: 0;
                 margin-right: 0;
             }
-
+            a{
+                &:hover{
+                    text-decoration:none;
+                }
+                h2{
+                    text-decoration: none;
+                }
+            }
             .forkit-tab-detail-block {
                 background-color: white;
                 border-radius: rem(12);
@@ -393,8 +400,12 @@
                     transition: all 0.4s;
                 }
                 &:hover{
+                    text-decoration: none;
                     img{
                         transform: scale(1.1);
+                    }
+                    h2{
+                        text-decoration: none;
                     }
                 }
                 .forkit-bottom-wrap {
