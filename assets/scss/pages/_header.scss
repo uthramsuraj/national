@@ -11,12 +11,12 @@
     }
     .container-fluid{
         border-bottom: 1px solid rgba(255, 255, 255, 0.29);
-        padding-top: rem(12.5);
+        padding-top: rem(0);
         padding-right: 0;
         .logo{
             img{
                 object-fit: cover;
-                width: rem(100);
+                width: rem(120);
             }
         }
         .header-right{
