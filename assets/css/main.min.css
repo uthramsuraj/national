@@ -10994,6 +10994,12 @@ ul {
   margin-bottom: 1.1764705882rem;
   -o-object-fit: contain;
      object-fit: contain;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
+}
+.forkit-wrap .forkit-tab-wrap .forkit-tab-detail-wrap .forkit-tab-detail-block:hover img {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
 }
 .forkit-wrap .forkit-tab-wrap .forkit-tab-detail-wrap .forkit-tab-detail-block .forkit-bottom-wrap {
   display: -webkit-box;
@@ -12954,6 +12960,8 @@ input:focus, select:focus {
 .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block {
   width: calc(50% - 30px);
   max-width: calc(50% - 30px);
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
 }
 @media screen and (max-width: 992px) {
   .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block {
@@ -13002,6 +13010,8 @@ input:focus, select:focus {
   border-radius: 50%;
   display: none;
   margin-right: 0.5882352941rem;
+  -webkit-transition: all 0.4s;
+  transition: all 0.4s;
 }
 .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block small {
   font-size: 14px;
