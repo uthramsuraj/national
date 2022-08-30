@@ -30,7 +30,7 @@
             rental products and services in the industry.</h2>
             <p>We know how important your job is, and our experts are available 24/7 to ensure every need for your construction project is met so it is completed on time and safely.</p>
             <div class="rental-main-wrap">
-                <div class="rental-block active">
+                <div class="rental-block">
                     <img src="assets/images/rental-1.png">
                     <p><span></span>Earth Moving</p>
                     <small>We know how important your job is, and our experts are available 24/7 to ensure every need for your construction project is met so it is completed on time and safely.</small>

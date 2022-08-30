@@ -13019,10 +13019,6 @@ input:focus, select:focus {
   display: block;
   margin-bottom: 1.7647058824rem;
 }
-.contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block.active img, .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block:hover img {
-  -webkit-filter: grayscale(0);
-          filter: grayscale(0);
-}
 .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block.active p span, .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap .rental-block:hover p span {
   display: block;
 }
