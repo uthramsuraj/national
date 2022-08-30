@@ -36,18 +36,15 @@
                 <li id="awp">Trucks & Trailers</li> -->
             </ul>
             <div class="forkit-tab-detail-wrap">
-                <a href="#">
-                    <div class="forkit-tab-detail-block active all mh">
-                        <h2>Earthmoving
-                            Equipment</h2>
-                        <img src="assets/images/forkit-3.png">
-                        <div class="forkit-bottom-wrap">
-                            <span>+</span>
-                            <a href="">Explore All</a>
-                        </div>
+                <div class="forkit-tab-detail-block active all mh">
+                    <h2>Earthmoving
+                        Equipment</h2>
+                    <img src="assets/images/forkit-3.png">
+                    <div class="forkit-bottom-wrap">
+                        <span>+</span>
+                        <a href="">Explore All</a>
                     </div>
-                </a>
-                <a href="#">
+                </div>
                 <div class="forkit-tab-detail-block active all awp">
                     <h2>Forklifts &
                         Material Handling</h2>
@@ -57,8 +54,6 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
                 <div class="forkit-tab-detail-block active all popular">
                     <h2>Aerial Work Platforms</h2>
                     <img src="assets/images/forkit.png">
@@ -67,8 +62,6 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
                 <div class="forkit-tab-detail-block active all earth">
                     <h2>Generators &
                         Light Towers</h2>
@@ -78,8 +71,7 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
+
                 <div class="forkit-tab-detail-block active all ss">
                     <h2>Compaction</h2>
                     <img src="assets/images/forkit-4.png">
@@ -88,8 +80,7 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
+
                 <div class="forkit-tab-detail-block active all popular">
                     <h2>Pumps, Tanks
                         & Filtration</h2>
@@ -99,8 +90,6 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
                 <div class="forkit-tab-detail-block active all ss">
                     <h2>Portable
                         Sanitation Services</h2>
@@ -110,8 +99,6 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
                 <div class="forkit-tab-detail-block active all mh">
                     <h2>Construction
                         Site Services</h2>
@@ -121,8 +108,6 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
-<a href="#">
                 <div class="forkit-tab-detail-block active all earth">
                     <h2>Trucks
                         & Trailers</h2>
@@ -132,7 +117,6 @@
                         <a href="">Explore All</a>
                     </div>
                 </div>
-</a>
                 <!-- <div class="forkit-tab-detail-block active all awp">
                     <h2>Air Compressors
                         & Tools</h2>

@@ -505,6 +505,12 @@
     @media screen and (max-width: 991px) {
         height: rem(600);
     }
+    @media screen and (max-width: 767px) {
+        height: rem(500);
+    }
+    @media screen and (max-width: 599px) {
+        height: rem(400);
+    }
     .client-icons{
         margin-bottom: rem(40);
         display: block;
@@ -694,7 +700,7 @@
             @media screen and (max-width: 599px) {
                 width: 100%;
                 max-width: 100%;
-                margin-bottom: rem(50);
+                margin-bottom: rem(40);
                 padding-right: 0;
             }
             &.rental-wrap{
@@ -704,6 +710,9 @@
                 }
                 ul{
                     margin-bottom: rem(50);
+                    @media screen and (max-width: 599px) {
+                        margin-bottom: rem(40);
+                    }
                     li{
                         border-bottom: 1px solid #666;
                         color: #1b1b1b;
@@ -751,6 +760,9 @@
                         @media screen and (max-width: 767px) {
                             height: rem(250);
                             padding: 0 rem(15);
+                        }
+                        @media screen and (max-width: 599px) {
+                            height: rem(150);
                         }
                         small,p{
                             display: block;
@@ -958,7 +970,7 @@
                         display: block;
                         margin-bottom: rem(30);
                     }
-                    &.active{
+                    &.active,&:hover{
                         img{
                             filter: grayscale(0);
                         }

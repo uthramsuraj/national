@@ -96,7 +96,7 @@
                 <div class="tab-pane" id="2a">
                 <div class="tab-content-wrap">
                         <div class="tab-left-content-wrap">
-                            <p>We promote a learning culture at National Dispatching―we listen, study, and are empathetic with the customers and communities we operate in. We have a dependable voice and are equipped to manage high pressure situations. Because we believe that every customer must be treated with dignity and respect, we are dedicated to maintaining a culture of trust and honesty by creating a supportive and empowering work environment.</p>
+                            <p>We are committed to delivering the best rental equipment, products and services at the right time and as requested the first time. We know that high quality equipment and tools make the difference in the efficiency and quality of a project, and we believe in doing everything we can to help our clients' businesses perform at the highest level. We are obsessed with performance and innovation, and we value our performance-driven culture where we work as a team to reach new milestones.</p>
                         </div>
                         <div class="tab-right-content-wrap">
                             <img src="assets/images/about-national.png">
@@ -106,7 +106,7 @@
                 <div class="tab-pane" id="3a">
                 <div class="tab-content-wrap">
                         <div class="tab-left-content-wrap">
-                            <p>Our greatest strength is our dedication to improvement even after decades in the industry. Through a daily commitment to being a little better every day, we bring out the best for our customers. We grow as a team so we can meet new challenges with creativity and cheerfulness, pushing ourselves beyond our limits to serve you and your needs.</p>
+                            <p>We are committed to delivering the best rental equipment, products and services at the right time and as requested the first time. We know that high quality equipment and tools make the difference in the efficiency and quality of a project, and we believe in doing everything we can to help our clients' businesses perform at the highest level. We are obsessed with performance and innovation, and we value our performance-driven culture where we work as a team to reach new milestones.</p>
                         </div>
                         <div class="tab-right-content-wrap">
                             <img src="assets/images/about-national.png">
@@ -116,7 +116,7 @@
                 <div class="tab-pane" id="4a">
                 <div class="tab-content-wrap">
                         <div class="tab-left-content-wrap">
-                            <p>We strive to provide the best in rental equipment, products and services. At the same time, we recognize our responsibility to create a safe environment for those utilizing our service. We comply with rules and regulations in the best interests of our customers and vendors, and we believe in faithful partnerships with reliable vendors, material specialists, skilled service engineers, and master practitioners and craftsmen.</p>
+                            <p>We are committed to delivering the best rental equipment, products and services at the right time and as requested the first time. We know that high quality equipment and tools make the difference in the efficiency and quality of a project, and we believe in doing everything we can to help our clients' businesses perform at the highest level. We are obsessed with performance and innovation, and we value our performance-driven culture where we work as a team to reach new milestones.</p>
                         </div>
                         <div class="tab-right-content-wrap">
                             <img src="assets/images/about-national.png">

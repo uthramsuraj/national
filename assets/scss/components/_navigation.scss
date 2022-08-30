@@ -64,7 +64,7 @@
                         content: '';
                         width: 0;
                         left: 0;
-                        bottom: -4px;
+                        bottom: 0;
                         height: 3px;
                         background: $primary-color;
                         @include transition(all, ease, 0.5s);
