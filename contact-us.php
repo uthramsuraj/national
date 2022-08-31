@@ -97,7 +97,7 @@
                     <textarea rows="4" cols="50"></textarea>
                 </div>
                 <div class="btn-wrap">
-                    <button><span>+</span>Send Message</button>
+                    <button class="main-btn"><span>+</span>Send Message</button>
                 </div>
             </form>
         </div>
