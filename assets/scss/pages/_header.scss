@@ -289,21 +289,3 @@ html.overflow-open{
         }
       }
 }
-
-h2{
-    font-size: rem(36);
-    margin-bottom: rem(30);
-    font-weight: 600;
-    color: $font-color;
-    
-    @media screen and (max-width: 992px) {
-        font-size: rem(30);
-    }
-    @media screen and (max-width: 767px) {
-        font-size: rem(24);
-    }
-}
-
-ul{
-    padding: 0;
-}

@@ -186,7 +186,7 @@ $('.blog-block-wrap').slick({
   ]
 });
 
-$(document).on('click','.product-categories-list-wrap ul li .categories-item h2',function(){
+$(document).on('click','.product-categories-list-wrap ul li .categories-item h3',function(){
   $(this).parent().toggleClass('active');
 })
 

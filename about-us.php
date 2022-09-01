@@ -7,7 +7,7 @@
 
 <section class="about-main-wrap bg-color">
     <div class="national-container">
-        <h2>About <br /> National Dispatching</h2>
+        <h2 class="title">About <br /> National Dispatching</h2>
         <p>National Dispatching is a certified, women-owned business that provides professional procurement services
             geared toward the construction industry. We are more than a full-service equipment rental group we provide
             many other products, services and solutions that our clients require to get their job done.</p>
@@ -41,7 +41,7 @@
     <div class="national-container">
         <span class="client-icons"><img src="assets/images/comma.png">
             <img src="assets/images/wbe.png"></span>
-        <h2>We deliver the solutions our clients need to get the job done</h2>
+        <h2 class="title">We deliver the solutions our clients need to get the job done</h2>
         <p><small>President/CFO</small><br />Shelley Avila</p>
     </div>
 </section>
@@ -69,7 +69,7 @@
 
 <section class="our-values-wrap bg-color">
     <div class="national-container">
-        <h2>Our Values</h2>
+        <h2 class="title">Our Values</h2>
         <div class="value-tab-wrap" id="exTab1">
             <ul class="nav nav-pills">
                 <li class="active">
@@ -131,7 +131,7 @@
 
 <section class="past-performance-wrap bg-color">
     <div class="national-container">
-        <h2>Past Performance</h2>
+        <h2 class="title">Past Performance</h2>
         <div class="past-performance-image-wrap">
             <span><img src="assets/images/past-performance-1.png"></span>
             <span><img src="assets/images/past-performance-2.png"></span>

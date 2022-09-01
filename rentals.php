@@ -8,7 +8,7 @@
 <section class="contact-main-wrap bg-color">
     <div class="national-container">
         <div class="contact-content-wrap rental-wrap">
-            <h2>Our Services</h2>
+            <h2 class="title">Our Services</h2>
             <ul> 
                 <li class="active"><span class="dot"></span>Rentals</li>
                 <li><span class="dot"></span>Materials</li>
@@ -26,7 +26,7 @@
             </div>
         </div>
         <div class="contact-address-wrap">
-            <h2>Equip your team with the best <br/>
+            <h2 class="title">Equip your team with the best <br/>
             rental products and services in the industry.</h2>
             <p>We know how important your job is, and our experts are available 24/7 to ensure every need for your construction project is met so it is completed on time and safely.</p>
             <div class="rental-main-wrap">

@@ -8,7 +8,7 @@
 <section class="contact-main-wrap bg-color">
     <div class="national-container">
         <div class="contact-content-wrap rental-wrap">
-            <h2>Categories</h2>
+            <h2 class="title">Categories</h2>
             <ul>
                 <li class="active">Agriculture (3)</li>
                 <li>Architecture (3)</li>

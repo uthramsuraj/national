@@ -1,5 +1,5 @@
 <?php include('includes/header.php');?>
-<section class="home-page blog-page" style="background-image: url(assets/images/how-can-renting-equipment-be-more-profitable.png);">
+<section class="home-page blog-detail-page" style="background-image: url(assets/images/how-can-renting-equipment-be-more-profitable.png);">
     <div class="national-container">
         <div class="blog-detail-banner">
             <h1>How can renting equipment be more profitable?</h1>
@@ -13,7 +13,37 @@
 <section class="contact-main-wrap bg-color">
     <div class="national-container">
         <div class="contact-content-wrap rental-wrap">
-            <h2>Categories</h2>
+            <h2 class="title">Recent Articles</h2>
+            <div class="recent-articles-wrap">
+                <div class="recent-article">
+                    <div class="recent-article-image">
+                        <img src="assets/images/article-1.png">
+                    </div>
+                    <div class="recent-article-content">
+                        <small>General</small>
+                        <p>How can renting equipment be more profitable?</p>
+                    </div>
+                </div>
+                <div class="recent-article">
+                    <div class="recent-article-image">
+                        <img src="assets/images/article-2.png">
+                    </div>
+                    <div class="recent-article-content">
+                        <small>General</small>
+                        <p>How can renting equipment be more profitable?</p>
+                    </div>
+                </div>
+                <div class="recent-article">
+                    <div class="recent-article-image">
+                        <img src="assets/images/article-3.png">
+                    </div>
+                    <div class="recent-article-content">
+                        <small>General</small>
+                        <p>How can renting equipment be more profitable?</p>
+                    </div>
+                </div>
+            </div>
+            <h2 class="title">Categories</h2>
             <ul>
                 <li class="active">Agriculture (3)</li>
                 <li>Architecture (3)</li>

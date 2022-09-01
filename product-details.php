@@ -18,7 +18,7 @@
             <img src="assets/images/product-1.png">
         </div>
         <div class="product-content-wrap">
-            <h2>40' Straight Boom Lift</h2>
+            <h2 class="title">40' Straight Boom Lift</h2>
             <p>40' straight booms are aerial work platforms with boom sections that extend telescopically. They are also
                 commonly known as “stick” booms because of their straight appearance. Telescopic booms offer greater
                 horizontal outreach than any other type of aerial platform — ideal for areas with limited access in
@@ -72,7 +72,7 @@
 <section class="popular-rental-wrap">
     <div class="national-container">
         <div class="popular-rental-head-wrap title-underline">
-            <h2>Other Products</h2>
+            <h2 class="title">Other Products</h2>
             <!-- <a href=""><img src="assets/images/location.png">Set Location</a> -->
         </div>
         <div class="popular-rental-content-wrap">

@@ -6,7 +6,7 @@
 </section>
 <section class="forkit-sub-wrap">
     <div class="national-container">
-        <h2>We offer a wide range of rental solutions for your job site</h2>
+        <h2 class="title">We offer a wide range of rental solutions for your job site</h2>
         <div class="forkit-sub-block-main">
             <div class="forkit-sub-block">
                 <img src="assets/images/road-roler.png">

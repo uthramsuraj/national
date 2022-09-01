@@ -20,63 +20,63 @@
                 <ul>
                     <li>
                         <div class="categories-item active">
-                            <h2>Forklifts & Material Handling (12)</h2>
+                            <h3>Forklifts & Material Handling (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Earthmoving Equipment (12)</h2>
+                            <h3>Earthmoving Equipment (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Aerial Work Platforms (12)</h2>
+                            <h3>Aerial Work Platforms (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Generators & Light Towers (12)</h2>
+                            <h3>Generators & Light Towers (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Compaction (12)</h2>
+                            <h3>Compaction (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Pumps, Tanks & Filtration (12)</h2>
+                            <h3>Pumps, Tanks & Filtration (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Portable Sanitation Services (12)</h2>
+                            <h3>Portable Sanitation Services (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Construction Site Services (12)</h2>
+                            <h3>Construction Site Services (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
                     </li>
                     <li>
                         <div class="categories-item">
-                            <h2>Trucks & Trailers (12)</h2>
+                            <h3>Trucks & Trailers (12)</h3>
                             <p>Boom Lifts (7)</p>
                             <p>Scissor Lifts (5)</p>
                         </div>
