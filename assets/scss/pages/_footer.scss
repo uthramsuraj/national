@@ -1,5 +1,5 @@
 .footer {
-    background: #1b1b1b;
+    background: $font-color;
     padding: 70px 0;
     @media screen and (max-width: 1450px) {
         padding: rem(60) 0 rem(60) 0;
@@ -22,7 +22,7 @@
     }
 
     p,a {
-        color: #fff;
+        color: $white;
     }
     h6{
         font-size: rem(22);
@@ -53,7 +53,7 @@
     }
     .footer-content{
         h4{
-            color: #fff;
+            color: $white;
             font-size: rem(17);
             font-weight: 600;
             margin-bottom: rem(20);
@@ -73,7 +73,7 @@
                         position: absolute;
                         height: rem(1);
                         width:0%;
-                        background-color: #fff;
+                        background-color: $white;
                         bottom:0;
                         left: 0;
                         transition: width 0.3s ease-in-out;

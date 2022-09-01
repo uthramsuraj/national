@@ -18,26 +18,26 @@
     <header class="main-header">
         <div class="container-fluid h-100 d-flx flx-vcenter">
             <div class="logo">
-                <a href="">
+                <a href="index.php">
                     <img src="assets/images/logo-white.svg" alt="logo">
                 </a>
             </div>
             <div class="header-right ml-auto mr-auto d-flx flx-vcenter">
                 <nav class="main-nav">
                     <ul>
-                        <li><a class="active" href="">Home</a></li>
+                        <li><a class="active" href="index.php">Home</a></li>
                         <li><a href="about-us.php">About Us</a></li>
                         <li><a href="rentals.php">Rentals</a></li>
                         <li><a href="">Materials</a></li>
                         <li><a href="">Trucking</a></li>
                         <li><a href="">Subcontracting</a></li>
-                        <li><a href="">Blogs</a></li>
+                        <li><a href="blogs.php">Blogs</a></li>
                         <li><a href="contact-us.php">Contact Us</a></li>
                         <li class="location-li"><a href=""><img src="assets/images/location.png" alt="logo">Set
                                 Location</a></li>
                         <li class="login-li"><a href=""><img src="assets/images/admin.png" alt="logo">Logins</a>
                             <ul>
-                                <li><a href=""><img src="assets/images/admin-black.png" alt="logo">Corporate Login</a>
+                                <li><a href="login.php"><img src="assets/images/admin-black.png" alt="logo">Corporate Login</a>
                                 </li>
                                 <li><a href=""><img src="assets/images/admin-black.png" alt="logo">Customer Login</a>
                                 </li>

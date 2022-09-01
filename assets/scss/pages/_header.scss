@@ -11,12 +11,12 @@
     }
     .container-fluid{
         border-bottom: 1px solid rgba(255, 255, 255, 0.29);
-        padding-top: rem(12.5);
+        padding-top: rem(0);
         padding-right: 0;
         .logo{
             img{
                 object-fit: cover;
-                width: rem(100);
+                width: rem(120);
             }
         }
         .header-right{
@@ -89,7 +89,7 @@
                         ul{
                             li{
                                 a{
-                                    color: #1b1b1b;
+                                    color: $font-color;
                                 }
                             }
                         }
@@ -271,7 +271,7 @@ html.overflow-open{
                     width: 100%;
                     li{
                         a{
-                            color: #1b1b1b!important;
+                            color: $font-color!important;
                         }
                         &.location-li, &.login-li{
                             padding: 0!important;
@@ -294,7 +294,7 @@ h2{
     font-size: rem(36);
     margin-bottom: rem(30);
     font-weight: 600;
-    color: #1b1b1b;
+    color: $font-color;
     
     @media screen and (max-width: 992px) {
         font-size: rem(30);

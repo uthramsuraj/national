@@ -16,6 +16,7 @@ $white: #fff !default;
 $black: #000 !default;
 $red: #C60C02 !default;
 $yellow:#ffe60a;
+$font-color:#1b1b1b;
 // Font size
 $base-font: 1.6rem !default;
 $text-xs: 1rem !default;
@@ -158,6 +159,7 @@ a{
   text-decoration: none;
 }
 
+.ttl
 .ttl-22 {
   font-size: size(22);
 }
@@ -178,4 +180,10 @@ $browser-context: 17; // Default.resource-categories
   #{$property}: -moz-calc(#{$expression});
   #{$property}: -webkit-calc(#{$expression});
   #{$property}: calc(#{$expression});
+}
+
+.bg-img-100-vh{
+  width: 100%;
+  height: 100vh;
+  object-fit:cover;
 }
