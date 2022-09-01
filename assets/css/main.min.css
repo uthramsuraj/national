@@ -10570,6 +10570,12 @@ html.overflow-open .mega-menu-wrap {
   margin-bottom: 2.35294rem;
 }
 
+@media screen and (max-width: 599px) {
+  .home-page.blog-detail-page .blog-detail-banner h1 {
+    font-size: 2.23529rem;
+  }
+}
+
 .home-page.blog-detail-page .blog-detail-banner .date-wrap p {
   color: #fff;
 }
@@ -12990,13 +12996,19 @@ html.overflow-open .mega-menu-wrap {
   line-height: 1;
 }
 
+@media screen and (max-width: 767px) {
+  .contact-main-wrap .national-container .contact-content-wrap.rental-wrap h2.title {
+    font-size: 1.52941rem;
+  }
+}
+
 .contact-main-wrap .national-container .contact-content-wrap.rental-wrap ul {
   margin-bottom: 2.94118rem;
 }
 
 @media screen and (max-width: 599px) {
   .contact-main-wrap .national-container .contact-content-wrap.rental-wrap ul {
-    margin-bottom: 2.35294rem;
+    margin-bottom: 0rem;
   }
 }
 
@@ -13308,9 +13320,33 @@ html.overflow-open .mega-menu-wrap {
   margin-bottom: 4.11765rem;
 }
 
+@media screen and (max-width: 992px) {
+  .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-bottom: 2.35294rem;
+  }
+}
+
 .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap p {
   width: 45%;
   padding-right: 4.70588rem;
+}
+
+@media screen and (max-width: 1199px) {
+  .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap p {
+    padding-right: 2.35294rem;
+    font-size: 1.17647rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap p {
+    width: 100%;
+    padding-right: 0rem;
+  }
 }
 
 .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap small {
@@ -13318,6 +13354,20 @@ html.overflow-open .mega-menu-wrap {
   width: 55%;
   padding-left: 2.35294rem;
   margin-bottom: 0;
+}
+
+@media screen and (max-width: 1199px) {
+  .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap small {
+    padding-left: 2.35294rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .rental-block .category-sub-wrap small {
+    width: 100%;
+    padding-left: 0rem;
+    border: 0;
+  }
 }
 
 .contact-main-wrap .national-container .contact-address-wrap .rental-main-wrap.category-main-wrap .pagination-wrap {
@@ -13640,6 +13690,69 @@ html.overflow-open .mega-menu-wrap {
   width: 100%;
   border: 0;
   resize: none;
+}
+
+.category-detail-wrap p {
+  color: #5b5b5b;
+  font-size: 0.94118rem;
+  margin-bottom: 1.76471rem;
+}
+
+.category-detail-wrap h3 {
+  color: #5b5b5b;
+  font-size: 1.29412rem;
+  font-weight: 600;
+  margin-bottom: 0;
+  margin-bottom: 1.47059rem;
+}
+
+.category-detail-wrap h4 {
+  color: #5b5b5b;
+  font-size: 1.17647rem;
+  font-weight: 600;
+}
+
+.category-detail-wrap .detail-inner-image-wrap {
+  margin-bottom: 1.76471rem;
+}
+
+.category-detail-wrap .detail-inner-image-wrap img {
+  height: 26.47059rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+@media screen and (max-width: 1199px) {
+  .category-detail-wrap .detail-inner-image-wrap img {
+    height: 20.58824rem;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .category-detail-wrap .detail-inner-image-wrap img {
+    height: 17.64706rem;
+  }
+}
+
+.share-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 2.35294rem;
+}
+
+.share-wrap p {
+  font-size: 1.05882rem;
+  font-weight: 600;
+  margin-bottom: 0;
+  margin-right: 0.88235rem;
+}
+
+.share-wrap span img {
+  height: 1.17647rem;
 }
 
 .footer {
