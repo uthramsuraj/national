@@ -724,6 +724,11 @@
                         padding: rem(25) 0;
                         display: flex;
                         align-items: center;
+                        a{
+                            &:hover{
+                                color: #1b1b1b;
+                            }
+                        }
                         @media screen and (max-width: 992px) {
                             padding: rem(15) 0;
                         }
@@ -756,7 +761,8 @@
                         align-items: center;
                         justify-content: center;
                         flex-direction: column;
-                        height: rem(300);
+                        height: rem(150);
+                        
                         @media screen and (max-width: 992px) {
                             height: rem(200);
                         }
@@ -787,6 +793,15 @@
                         background-color: #000;
                         padding: rem(20);
                         cursor: pointer;
+                        
+                        &:hover{
+                            background-color: rgba(0, 0, 0, 0.445);
+                            transition: all 0.5s ease-in-out;
+                            p{
+                                color: $white;
+                                transition: all 0.5s ease-in-out;
+                            }
+                        }
                         p{
                             margin-bottom: 0;
                             color: $yellow;
@@ -910,7 +925,8 @@
                     }
                     &.active,&:hover{
                         img{
-                            // filter: grayscale(0);
+                            filter: grayscale(0);
+                            transition: all 0.5s ease-in-out;
                         }
                         p{
                             span{
@@ -938,6 +954,7 @@
                             p{
                                 width: 45%;
                                 padding-right: rem(80);
+                                margin-bottom: 0;
                                 @media screen and (max-width: 1199px) {
                                     padding-right: rem(40);
                                     font-size: rem(20);
@@ -945,6 +962,11 @@
                                 @media screen and (max-width: 992px) {
                                     width: 100%;
                                     padding-right: rem(0);
+                                }
+                                a{
+                                    &:hover{
+                                        color: #1b1b1b;
+                                    }
                                 }
                             }
                             small{
@@ -973,10 +995,12 @@
                             font-weight: 500;
                             margin-bottom: 0;
                             img{
-                                width: rem(20);
+                                width: rem(30);
                                 height: rem(20);
+                                min-width: rem(30);
+                                min-height: rem(20);
                                 object-fit: contain;
-                                padding-left: rem(10);
+                                padding:0 rem(10);
                             }
                         }
                     }
@@ -997,7 +1021,7 @@
                 width: rem(70);
                 min-height: rem(70);
                 min-width: rem(70);
-                object-fit: contain;
+                object-fit: cover;
             }
         }
         .recent-article-content{
@@ -1203,18 +1227,48 @@
         color: #5b5b5b;
         font-size: rem(16);
         margin-bottom: rem(30);
+        a{
+            color: #5b5b5b;
+            font-size: rem(16);
+            font-weight: 600;
+        }
+        img{
+            height: rem(450);
+            object-fit: cover;
+            @media screen and (max-width: 1199px) {
+                height: rem(350);
+            }
+            @media screen and (max-width: 992px) {
+                height: rem(300);
+            }
+        }
     }
-    h3{
+    h3,h2{
         color: #5b5b5b;
         font-size: rem(22);
         font-weight: 600;
-        margin-bottom: 0;
         margin-bottom: rem(25);
+    }
+    h3{
+        a{
+            color: #5b5b5b;
+            font-size: rem(22);
+            font-weight: 600;
+            margin-bottom: rem(25);
+        }
     }
     h4{
         color: #5b5b5b;
         font-size: rem(20);
         font-weight: 600;
+    }
+    ol,ul{
+        padding-left: rem(20);
+        li{
+            color: #5b5b5b;
+            font-size: rem(16);
+            margin-bottom: rem(5);
+        }
     }
     .detail-inner-image-wrap{
         margin-bottom: rem(30);
