@@ -158,7 +158,7 @@
         </div>
         <div class="popular-rental-content-wrap">
             <div class="popular-rental-block">
-                <img src="assets/images/forkit.png">
+            <a href=""><img src="assets/images/forkit.png"></a>
                 <h3>19 ft Electric Scissor Lift Narrow</h3>
                 <div class="location-detail"><img src="assets/images/location.png">
                     <p>Set location for local pricing</p>
@@ -177,10 +177,10 @@
                         <b>$416</b>
                     </div>
                 </div>
-                <a href="">Add to Cart</a>
+                <a class="btn" href="">Add to Cart</a>
             </div>
             <div class="popular-rental-block">
-                <img src="assets/images/forkit-2.png">
+            <a href=""><img src="assets/images/forkit-2.png"></a>
                 <h3>34 ft Articulating
                     Boom Lift Electric</h3>
                 <div class="location-detail"><img src="assets/images/location.png">
@@ -200,10 +200,10 @@
                         <b>$416</b>
                     </div>
                 </div>
-                <a href="">Add to Cart</a>
+                <a class="btn" href="">Add to Cart</a>
             </div>
             <div class="popular-rental-block">
-                <img src="assets/images/forkit-3.png">
+            <a href=""><img src="assets/images/forkit-3.png"></a>
                 <h3>5000 lbs Warehouse
                     Forklift Cushion Tire</h3>
                 <div class="location-detail"><img src="assets/images/location.png">
@@ -223,10 +223,10 @@
                         <b>$416</b>
                     </div>
                 </div>
-                <a href="">Add to Cart</a>
+                <a class="btn" href="">Add to Cart</a>
             </div>
             <div class="popular-rental-block">
-                <img src="assets/images/forkit-4.png">
+                <a href=""><img src="assets/images/forkit-4.png"></a>
                 <h3>30 ton Carry
                     Deck Crane</h3>
                 <div class="location-detail"><img src="assets/images/location.png">
@@ -246,7 +246,7 @@
                         <b>$416</b>
                     </div>
                 </div>
-                <a href="">Add to Cart</a>
+                <a class="btn" href="">Add to Cart</a>
             </div>
         </div>
     </div>

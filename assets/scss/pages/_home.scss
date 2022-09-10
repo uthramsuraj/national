@@ -161,9 +161,9 @@
                 @media screen and (max-width: 767px) {
                     width: rem(60);
                  }
-                 @media screen and (max-width: 599px) {
-                    width: rem(20);
-                 }
+                //  @media screen and (max-width: 599px) {
+                //     width: rem(20);
+                //  }
             }
             .custom-select-wrap{
                 display: flex;
@@ -236,13 +236,14 @@
                 height: rem(60);
                 border: 0;
                 background-color: transparent;
-                width: calc(100% - 170px);
+                width: calc(100% - 60px);
                 @media screen and (max-width: 767px) {
                     height: rem(50);
+                    width: calc(100% - 15px);
                  }
-                 @media screen and (max-width: 599px) {
-                    padding-right: rem(30);
-                 }
+                //  @media screen and (max-width: 599px) {
+                //     padding-right: rem(30);
+                //  }
                 &::placeholder {
                     font-weight: 400;
                     font-size: rem(20);
@@ -258,11 +259,14 @@
 
     &.product-detail{
         background-image: none;
+        height: rem(350);
         .national-container{
             display: flex;
             flex-direction: column;
             h1{
                 margin-bottom: rem(20);
+                font-size: rem(45);
+
             }
             ul{
                 display: flex;
@@ -541,10 +545,15 @@
             }
 
             h3 {
-                font-size: rem(18);
+                font-size: 1.4em;
                 font-weight: 500;
                 margin-bottom: rem(25);
                 text-align: left;
+                min-height: rem(55);
+                @media screen and (max-width: 992px) {
+                    min-height: unset;
+                 }
+
             }
             .location-detail{
                 display: flex;
@@ -579,9 +588,9 @@
 
                 .popular-rental-single {
                     p {
-                        font-size: rem(17);
+                        font-size: rem(14);
                         font-weight: 500;
-                        line-height: 1;
+                        line-height: 0.4;
                         margin-bottom: rem(5);
                     }
 
@@ -595,7 +604,7 @@
                 }
             }
 
-            a {
+            a.btn {
                 font-size: rem(17);
                 color: $font-color;
                 font-weight: 500;
