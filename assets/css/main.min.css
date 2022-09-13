@@ -10509,7 +10509,7 @@ html.overflow-open .mega-menu-wrap {
   background-repeat: no-repeat;
   background-color: #000;
   background-position: center center;
-  height: 26.47059rem;
+  height: 20.58824rem;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -10595,7 +10595,7 @@ html.overflow-open .mega-menu-wrap {
 .home-page .national-container {
   position: relative;
   z-index: 9;
-  height: 26.47059rem;
+  height: 20.58824rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -11390,6 +11390,7 @@ html.overflow-open .mega-menu-wrap {
   width: 80px;
   overflow: visible;
   text-transform: capitalize;
+  white-space: nowrap;
 }
 
 @media screen and (max-width: 992px) {
@@ -11975,6 +11976,69 @@ html.overflow-open .mega-menu-wrap {
           transform: rotate(90deg);
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+}
+
+.review-main-wrap .review-block {
+  text-align: center;
+  padding: 1.76471rem;
+  background-color: #fff;
+  border-radius: 0.58824rem;
+}
+
+.review-main-wrap .review-block img.google-lence {
+  width: 2.35294rem;
+  height: 2.35294rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin: auto;
+  margin-bottom: 0.58824rem;
+}
+
+.review-main-wrap .review-block .review-star-block {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 1.47059rem;
+}
+
+.review-main-wrap .review-block .review-star-block img {
+  width: 1.17647rem;
+  height: 1.17647rem;
+}
+
+.review-main-wrap .review-block .review-content {
+  margin-bottom: 0.88235rem;
+}
+
+.review-main-wrap .review-block .review-content p {
+  font-size: 0.94118rem;
+  text-align: justify;
+  color: #5b5b5b;
+  min-height: 10.29412rem;
+}
+
+@media screen and (max-width: 992px) {
+  .review-main-wrap .review-block .review-content p {
+    min-height: 5.88235rem;
+  }
+}
+
+.review-main-wrap .review-block .review-bottom p {
+  margin-bottom: 0;
+}
+
+.review-main-wrap .review-block .review-bottom p b {
+  font-size: 1.05882rem;
+}
+
+.review-main-wrap .review-block .review-bottom small {
+  color: #5b5b5b;
 }
 
 #count {
@@ -12829,9 +12893,9 @@ html.overflow-open .mega-menu-wrap {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;

@@ -432,6 +432,95 @@
     </div>
 </section>
 
+<section class="popular-rental-wrap blog-wrap">
+    <div class="national-container">
+        <div class="popular-rental-head-wrap">
+            <h2>Google Review</h2>
+        </div>
+        <div class="review-main-wrap">
+            <div class="review-block">
+                <img class="google-lence" src="assets/images/google-icon.svg">
+                <div class="review-star-block">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                </div>
+                <div class="review-content">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nam quae quam porro libero nisi et repellat ipsam. Exercitationem saepe reiciendis dolores et illo.</p>
+                </div>
+                <div class="review-bottom">
+                    <p><b>Lorem, ipsum dolor</b></p>
+                    <small>Lorem, ipsum dolor sit</small>
+                </div>
+            </div>
+            <div class="review-block">
+               <img class="google-lence" src="assets/images/google-icon.svg">
+                <div class="review-star-block">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                </div>
+                <div class="review-content">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nam quae quam porro libero nisi et repellat ipsam</p>
+                </div>
+                <div class="review-bottom">
+                    <p><b>Lorem, ipsum dolor</b></p>
+                    <small>Lorem, ipsum dolor sit</small>
+                </div>
+            </div>
+            <div class="review-block">
+               <img class="google-lence" src="assets/images/google-icon.svg">
+                <div class="review-star-block">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                </div>
+                <div class="review-content">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nam quae quam porro libero nisi et repellat ipsam. Exercitationem saepe reiciendis dolores et illo.</p>
+                </div>
+                <div class="review-bottom">
+                    <p><b>Lorem, ipsum dolor</b></p>
+                    <small>Lorem, ipsum dolor sit</small>
+                </div>
+            </div>
+            <div class="review-block">
+               <img class="google-lence" src="assets/images/google-icon.svg">
+                <div class="review-star-block">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                </div>
+                <div class="review-content">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nam quae quam porro libero nisi et repellat ipsam. Exercitationem saepe reiciendis dolores et illo.</p>
+                </div>
+                <div class="review-bottom">
+                    <p><b>Lorem, ipsum dolor</b></p>
+                    <small>Lorem, ipsum dolor sit</small>
+                </div>
+            </div>
+            <div class="review-block">
+               <img class="google-lence" src="assets/images/google-icon.svg">
+                <div class="review-star-block">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                    <img src="assets/images/review-star.svg">
+                </div>
+                <div class="review-content">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Reiciendis nam quae quam porro libero nisi et repellat ipsam. Exercitationem saepe reiciendis dolores et illo.</p>
+                </div>
+                <div class="review-bottom">
+                    <p><b>Lorem, ipsum dolor</b></p>
+                    <small>Lorem, ipsum dolor sit</small>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="new-national-wrap project-wrap" id="project">
     <div class="national-container">

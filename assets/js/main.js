@@ -170,7 +170,42 @@ $('.blog-block-wrap').slick({
       }
     },
     {
+      breakpoint: 992,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    {
       breakpoint: 600,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1
+      }
+    }
+  ]
+});
+
+$('.review-main-wrap').slick({
+  dots: false,
+  arrows:false,
+  infinite: false,
+  speed: 300,
+  autoplay:true,
+  slidesToShow: 4,
+  slidesToScroll: 4,
+  responsive: [
+    {
+      breakpoint: 1099,
+      settings: {
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: false
+      }
+    },
+    {
+      breakpoint: 992,
       settings: {
         slidesToShow: 2,
         slidesToScroll: 2

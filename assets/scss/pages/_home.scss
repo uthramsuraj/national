@@ -33,7 +33,7 @@
     background-repeat: no-repeat;
     background-color:#000;
     background-position: center center;
-    height: rem(450);
+    height: rem(350);
     // margin-top: -5rem;
     position: relative;
     display: flex;
@@ -95,7 +95,7 @@
     .national-container {
         position: relative;
         z-index: 9;
-        height: rem(450);
+        height: rem(350);
         display: flex;
         align-items: center;
         justify-content: center;
@@ -654,6 +654,7 @@
                 width: 80px;
                 overflow: visible;
                 text-transform: capitalize;
+                white-space: nowrap;
                 @media screen and (max-width: 992px) {
                     right: rem(-52);
                  }
@@ -1102,6 +1103,67 @@
         }
     }
 }
+
+.review-main-wrap{
+    .review-block{
+        text-align: center;
+        padding: rem(30);
+        background-color: #fff;
+        border-radius: rem(10);
+        img.google-lence{
+            width: rem(40);
+            height: rem(40);
+            object-fit: contain;
+            margin: auto;
+            margin-bottom: rem(10);
+        }
+        .review-star-block{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: rem(25);
+            img{
+                width: rem(20);
+                height: rem(20);
+            }
+        }
+        .review-content{
+            margin-bottom: rem(15);
+            p{
+                font-size: rem(16);
+                text-align: justify;
+                color: #5b5b5b;
+                min-height: rem(175);
+                @media screen and (max-width: 992px) {
+                    min-height: rem(100);
+                 }
+            }
+        }
+        .review-bottom{
+            p{
+                margin-bottom: 0;
+                b{
+                    font-size: rem(18);
+                }
+            }
+            small{
+                color: #5b5b5b;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 //   .cursor {
 //     width: rem(15);
