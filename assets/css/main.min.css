@@ -10497,6 +10497,12 @@ html.overflow-open .mega-menu-wrap {
   margin-bottom: 1.17647rem;
 }
 
+@media screen and (max-width: 599px) {
+  .service-territory h5 {
+    text-align: left;
+  }
+}
+
 .service-territory P {
   font-size: 0.82353rem;
   font-weight: 400;
@@ -10504,12 +10510,18 @@ html.overflow-open .mega-menu-wrap {
   color: #fff;
 }
 
+@media screen and (max-width: 599px) {
+  .service-territory P {
+    text-align: left;
+  }
+}
+
 .home-page {
   background-image: url(../images/banner-2.png);
   background-repeat: no-repeat;
   background-color: #000;
   background-position: center center;
-  height: 20.58824rem;
+  height: 26.47059rem;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -10525,21 +10537,149 @@ html.overflow-open .mega-menu-wrap {
 .home-page.about-page {
   background-image: url(../images/about-banner.png);
   background-size: cover;
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.about-page {
+    height: 14.70588rem;
+  }
+}
+
+.home-page.about-page .national-container {
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.about-page .national-container {
+    height: 14.70588rem;
+  }
+  .home-page.about-page .national-container h1 {
+    margin-top: 2.94118rem;
+  }
 }
 
 .home-page.contact-page {
   background-image: url(../images/contact-banner.png);
+  background-size: contain;
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.contact-page {
+    height: 14.70588rem;
+  }
+}
+
+.home-page.contact-page .national-container {
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.contact-page .national-container {
+    height: 14.70588rem;
+  }
+  .home-page.contact-page .national-container h1 {
+    margin-top: 2.94118rem;
+  }
+}
+
+.home-page.error-page {
+  background-image: url(../images/error-banner.png);
   background-size: cover;
+  height: 26.17647rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.error-page {
+    height: 14.70588rem;
+  }
+}
+
+.home-page.error-page .national-container {
+  height: 26.17647rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.error-page .national-container {
+    height: 14.70588rem;
+  }
+  .home-page.error-page .national-container h1 {
+    margin-top: 2.94118rem;
+  }
 }
 
 .home-page.rentals-page {
   background-image: url(../images/rental-banner.png);
   background-size: cover;
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.rentals-page {
+    height: 14.70588rem;
+  }
+}
+
+.home-page.rentals-page .national-container {
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.rentals-page .national-container {
+    height: 14.70588rem;
+  }
+  .home-page.rentals-page .national-container h1 {
+    margin-top: 2.94118rem;
+  }
 }
 
 .home-page.blog-page {
   background-image: url(../images/blog-banner.png);
   background-size: cover;
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.blog-page {
+    height: 14.70588rem;
+  }
+}
+
+.home-page.blog-page .national-container {
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.blog-page .national-container {
+    height: 14.70588rem;
+  }
+  .home-page.blog-page .national-container h1 {
+    margin-top: 2.94118rem;
+  }
+}
+
+.home-page.trucking-page, .home-page.materials-page, .home-page.subcontracting-page {
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.trucking-page, .home-page.materials-page, .home-page.subcontracting-page {
+    height: 14.70588rem;
+  }
+}
+
+.home-page.trucking-page .national-container, .home-page.materials-page .national-container, .home-page.subcontracting-page .national-container {
+  height: 20.58824rem;
+}
+
+@media screen and (max-width: 599px) {
+  .home-page.trucking-page .national-container, .home-page.materials-page .national-container, .home-page.subcontracting-page .national-container {
+    height: 14.70588rem;
+  }
+  .home-page.trucking-page .national-container h1, .home-page.materials-page .national-container h1, .home-page.subcontracting-page .national-container h1 {
+    margin-top: 2.94118rem;
+  }
 }
 
 .home-page.blog-detail-page {
@@ -10595,7 +10735,7 @@ html.overflow-open .mega-menu-wrap {
 .home-page .national-container {
   position: relative;
   z-index: 9;
-  height: 20.58824rem;
+  height: 26.47059rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -11269,6 +11409,7 @@ html.overflow-open .mega-menu-wrap {
   margin-bottom: 1.47059rem;
   text-align: left;
   min-height: 3.23529rem;
+  color: #000 !important;
 }
 
 @media screen and (max-width: 992px) {
@@ -11324,12 +11465,15 @@ html.overflow-open .mega-menu-wrap {
   font-weight: 500;
   line-height: 0.4;
   margin-bottom: 0.29412rem;
+  color: #000;
+  text-decoration: none;
 }
 
 .popular-rental-wrap .popular-rental-content-wrap .popular-rental-block .popular-rental-date .popular-rental-single b {
   font-size: 1.23529rem;
   font-weight: 600;
   color: #000;
+  text-decoration: none;
   line-height: 2;
   padding-top: 30px;
 }
@@ -11787,6 +11931,12 @@ html.overflow-open .mega-menu-wrap {
 .forkit-sub-wrap .national-container h2 {
   font-size: 2.05882rem;
   margin-bottom: 3.52941rem;
+}
+
+@media screen and (max-width: 767px) {
+  .forkit-sub-wrap .national-container h2 {
+    font-size: 1.76471rem;
+  }
 }
 
 .forkit-sub-wrap .national-container .forkit-sub-block-main {
@@ -13885,6 +14035,33 @@ html.overflow-open .mega-menu-wrap {
   height: 1.17647rem;
 }
 
+.error-main-wrap {
+  padding: 7.35294rem 0;
+}
+
+@media screen and (max-width: 992px) {
+  .error-main-wrap {
+    padding: 3.52941rem 0 2.94118rem 0;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .error-main-wrap {
+    padding: 2.35294rem 0 2.05882rem 0;
+  }
+}
+
+.error-main-wrap h2 {
+  font-size: 1.88235rem;
+  margin-bottom: 2.64706rem;
+}
+
+@media screen and (max-width: 991px) {
+  .error-main-wrap h2 {
+    font-size: 1.41176rem;
+  }
+}
+
 .footer {
   background: #1b1b1b;
   padding: 70px 0;
@@ -14034,5 +14211,119 @@ html.overflow-open .mega-menu-wrap {
 
 footer .col-xs-6 {
   max-width: 50%;
+}
+
+.date-wrap p {
+  font-size: 1.11765rem !important;
+  line-height: 1;
+  color: #777777;
+  font-weight: 400 !important;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin-bottom: 0;
+}
+
+.date-wrap p span {
+  padding: 0.58824rem;
+  background-color: #ffe60a;
+  display: block;
+  margin-right: 0.88235rem;
+  color: #1b1b1b;
+  font-weight: 400;
+}
+
+.main-btn {
+  background-color: #ffe60a;
+  padding: 0.58824rem 1.47059rem;
+  border: 1px solid #ffe60a;
+  font-weight: 500;
+  font-size: 0.88235rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.main-btn span {
+  font-size: 1.47059rem;
+  padding-right: 0.47059rem;
+}
+
+.main-btn:hover {
+  color: #ffe60a;
+  background-color: #fff;
+  -webkit-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+.bg-color {
+  background-color: #e5e5e5;
+}
+
+input, select {
+  outline: none;
+}
+
+input:focus, select:focus {
+  outline: none;
+}
+
+.title-underline > h2 {
+  position: relative;
+  margin-bottom: 0.58824rem;
+}
+
+.title-underline > h2:after {
+  content: '';
+  position: absolute;
+  bottom: -0.88235rem;
+  background-color: rgba(123, 114, 114, 0.49);
+  right: -20%;
+  width: 120%;
+  height: 0.05882rem;
+}
+
+@media screen and (max-width: 1199px) {
+  .title-underline > h2:after {
+    right: 0%;
+    width: 100%;
+  }
+}
+
+h2.title {
+  font-size: 2.11765rem;
+  margin-bottom: 1.76471rem;
+  font-weight: 600;
+  color: #1b1b1b;
+}
+
+@media screen and (max-width: 992px) {
+  h2.title {
+    font-size: 1.76471rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  h2.title {
+    font-size: 1.41176rem;
+  }
+}
+
+ul {
+  padding: 0;
+}
+
+a:hover {
+  color: #000;
+  text-decoration: none !important;
 }
 /*# sourceMappingURL=main.min.css.map */

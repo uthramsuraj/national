@@ -1301,3 +1301,20 @@
         }
     }
 }
+
+.error-main-wrap{
+    padding: rem(125) 0;
+    @media screen and (max-width: 992px) {
+        padding: rem(60) 0 rem(50) 0;
+    }
+    @media screen and (max-width: 767px) {
+        padding: rem(40) 0 rem(35) 0;
+    }
+    h2{
+        font-size: rem(32);
+        margin-bottom: rem(45);
+        @media screen and (max-width: 991px) {
+            font-size: rem(24);
+        }
+    }
+}
