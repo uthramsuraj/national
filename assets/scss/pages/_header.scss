@@ -64,9 +64,9 @@
                                 padding-right: rem(15);
                             }
                         }
-                        &.login-li{
-                            padding-left: rem(25);
-                            padding-right: rem(25);
+                        &.login-li, &.header-cart-icon{
+                            padding-left: rem(37.5);
+                            padding-right: rem(37.5);
                             border-right: 1px solid rgba(255, 255, 255, 0.29);
                             @media screen and (max-width: 1366px){
                                 padding-left: rem(15);
